@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-this project is hosted on Vercel.
+This project is hosted on Vercel.
 Access at:https://organo-sage.vercel.app/
 
 ## Available Scripts
@@ -10,6 +10,8 @@ Access at:https://organo-sage.vercel.app/
 In the project directory, you can run:
 
 ### `npm install`
+
+Installs all dependencies and modules needed to run the project.
 
 ### `npm start`
 
